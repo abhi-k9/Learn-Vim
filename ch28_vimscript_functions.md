@@ -429,7 +429,7 @@ echo Tasty()
 " returns "tasty"
 ```
 
-You can call a function from insisde a lambda expression:
+You can call a function from inside a lambda expression:
 
 ```
 function! Lunch(item)
